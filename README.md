@@ -8,8 +8,6 @@
 
 ## To start playing do the following
 
-clone Application
-
 How to install: Git clone this project
 
 install packages
