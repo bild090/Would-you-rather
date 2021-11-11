@@ -1,4 +1,4 @@
-# A Would you rather game
+#  Would you rather game
 
 How to install: Git clone this project
 
