@@ -1,0 +1,6 @@
+.viwe-poll .name{
+    background-color: rgba(128, 128, 128, 0.185);
+}
+.selected{
+    background-color: rgba(0, 151, 113, 0.466) !important;
+}

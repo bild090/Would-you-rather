@@ -1,0 +1,14 @@
+.navbar a{
+    text-decoration: none;
+    color: rgb(0, 138, 103);
+    font-weight: 500;
+    font-size: 17px;
+}
+.logout{
+    padding: 1px 3px;
+}
+.logout:hover{
+    background-color: rgb(0, 138, 103);
+    color: white;
+    border-radius: 3px;
+}

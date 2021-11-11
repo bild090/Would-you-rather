@@ -1,0 +1,19 @@
+.new-question .bg-color{
+    background-color: rgba(179, 179, 179, 0.411);
+}
+.new-question button{
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    width: 100%;
+    margin-top: 20px;
+    color: white;
+    background-color: rgba(27, 141, 112, 0.74);
+}
+.new-question button:hover{
+    background-color: rgba(0, 158, 119, 0.74);
+}
+.new-question hr{
+    width: 45%;
+}
